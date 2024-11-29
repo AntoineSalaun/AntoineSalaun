@@ -3,4 +3,4 @@
 - 🌱 I study Computational science at EPFL, Lausanne 🇨🇭 currently visiting student at MIT 🇺🇸
 - 🔬 I do research on fairness of Computer Vision, I am especially interested in CBM.
 - 📱 I produce science youtube videos : https://www.youtube.com/channel/UCwteC8d1uTeKLJtySneTiPw
-- 📫 You can reach me at antoine.salaun(at)epfl.ch
+- 📫 You can reach me at salaun(at)mit.edu
