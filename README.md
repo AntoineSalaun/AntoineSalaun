@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Antoine Salaün
 - 👀 I’m interested in **Ecosystems, Science communication, and Computer Vision**.
 - 📱 I make [science documentaries](https://www.youtube.com/channel/UCwteC8d1uTeKLJtySneTiPw) YouTube
+- 🐘 Ultimately, I want to decode elephant language
  
 - 🌱 I studied Physics (BsC), and Computational science (MsC) at EPFL 🇨🇭 
 - 🔬 I am doing my **PhD at MIT** 🇺🇸, under the supervision of [**Sara Beery**]()
